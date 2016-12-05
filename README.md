@@ -9,10 +9,15 @@ Pin Belegung
 
 SDA-5708   Raspberry
 
-1 Vcc	->	2  Vcc\n
-2 Load	->	26 GPIO7\n
-3 Data	->	24 GPIO8\n
-4 SDCLK	->	12 GPIO18\n
-5 RESET	->	16 GPIO23\n
+1 Vcc	->	2  Vcc
+
+2 Load	->	26 GPIO7
+
+3 Data	->	24 GPIO8
+
+4 SDCLK	->	12 GPIO18
+
+5 RESET	->	16 GPIO23
+
 6 GND	->	6  GND
 
